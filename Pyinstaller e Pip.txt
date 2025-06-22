@@ -1,0 +1,6 @@
+PyInstaller usar para transformar a Automatização em .exe e assim automatizar com agendador de tarefas
+
+pip install pyserial
+
+biblioteca do arduino MFRC522
+LiquidCrystal I2C
